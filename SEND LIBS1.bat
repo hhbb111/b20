@@ -19,7 +19,7 @@ timeout /t 4
 cls
 
 color 40
-
+netsh int ip reset
 ipconfig /registerdns
 ipconfig /release
 ipconfig /flushdns
