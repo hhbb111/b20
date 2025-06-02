@@ -1,1 +1,0 @@
-"C:\\Program Files\\TxGameAssistant\\ui\\AndroidEmulatorEx.exe" -vm 100
