@@ -15,7 +15,7 @@ echo إعادة تعيين TCP/IP (آمن)...
 netsh int ip reset
 
 :: لو تريد إعادة ضبط جدار الحماية فعّل هذا السطر:
-:: netsh advfirewall reset
+netsh advfirewall reset
 
 echo تم تحسين الاتصال بنجاح. الإنترنت سيبقى يعمل.
 echo انتظر 60 ثانية لإعادة التكرار... اضغط Ctrl+C للخروج.
